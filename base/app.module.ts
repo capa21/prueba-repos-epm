@@ -1,3 +1,3 @@
 export function angularBase(): void {
-    console.log('angular Base');
+    console.log('Elements base');
 }
